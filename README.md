@@ -30,7 +30,7 @@ Here are all links to my other profiles
 
 [![profile](./images/facebook-logo.png)](https://www.facebook.com/CaloCapital/)
 
-
+[![instagram profile link](./images/Instagram-logo.jpeg)](https://www.instagram.com/calocapital/?hl=en)
 
 
 
