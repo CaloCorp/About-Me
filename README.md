@@ -25,7 +25,11 @@ My goals for the term future are as follows:
  * Trading
  * Poker 
  * learning new things
- * Reading
+
+Here are all links to my other profiles
+
+![www.facebook.com](./images/facebook-logo.png)
+
 
 
 
