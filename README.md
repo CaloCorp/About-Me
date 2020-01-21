@@ -17,7 +17,7 @@ My goals for the term future are as follows:
  8. Continue to code and improve skillset to apply to financial markets
 
 ## Hobbies/Interests
- My hobbies are interests include but are not limited to: 
+ My hobbies and interests include but are not limited to: 
 
  * Financial Markets
  * Coding
@@ -27,6 +27,8 @@ My goals for the term future are as follows:
  * Trading
  * Poker 
  * learning new things
+ * outdoor activities 
+ 
 
 Here are all links to my other profiles
 
