@@ -4,6 +4,7 @@ My name is Marc Calo. This is an about me page that I will be updating as learn 
 
 I started a Javascript class at Code Immersives in New York, NY January of 2020.  I've been growing a small finanical services business since October of 2015 while attending school partime. Prior to that I enlisted in the United States Navy from 2010-2014 shortly after highschool.
 
+## Goals
 My goals for the term future are as follows:
 
  1. to become proficient in javascript and pyhton
@@ -15,6 +16,7 @@ My goals for the term future are as follows:
  7. Run or open a hedge fund
  8. Continue to code and improve skillset to apply to financial markets
 
+## Hobbies/Interests
  My hobbies are interests include but are not limited to: 
 
  * Financial Markets
