@@ -28,7 +28,7 @@ My goals for the term future are as follows:
  * Poker 
  * learning new things
  * outdoor activities 
- 
+ * social gatherings
 
 Here are all links to my other profiles
 
