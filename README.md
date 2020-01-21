@@ -32,7 +32,6 @@ Here are all links to my other profiles
 
 [![Facebook business profile](./images/facebook-logo.png)](https://www.facebook.com/CaloCapital/)
 [![instagram profile link](./images/Instagram-logo.jpeg)](https://www.instagram.com/calocapital/?hl=en)
-[!]
 [![Linked in Profile](./images/LinkedIn-logo.png)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarc-calo-a40260109%3Ffbclid%3DIwAR27NyPTwWGY94v8CCNAaQ0J1aCTNjTc2F7LMNzzSDHIIjhuG1egIK-Yj54&h=AT2FLPIC7FVpNkA7c59XyQseToQ-3MKNUf1N5aMjuTju0flfH2bjVLx-uUT1IYM8dTcxRX966Iym9wZMyvfrdiX277u3LpupZmeGlJQ1hhGdJGTjxnbPgyz9u5_umiOFDywhSKqc)
 
 
